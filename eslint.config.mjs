@@ -13,7 +13,6 @@ export default [
     ignores: [
       'node_modules/',
       "dist",
-      'build/',
       // Add any other paths you want ESLint to ignore
     ],
     rules: {
